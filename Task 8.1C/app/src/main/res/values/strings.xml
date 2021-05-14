@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Youtube Player App by Khanh Do</string>
+    <string name="url">Youtube URL</string>
+    <string name="play">PLAY</string>
+</resources>
